@@ -19,3 +19,11 @@ There are two types of vehicle that the supermarket can use:
 Aim of this project is to minimise the daily costs and find the best strategy such that every store recieves it's delivery and both the warehouses have correct 
 
 number of vehicles at the end of the day so the deliveries can be carried out the next day.
+
+The final result is not visible in github preview please open the file in jupyter notebook or Google Colab to see the final result. The result in my case looked like this : 
+
+![download (1)](https://user-images.githubusercontent.com/118631163/202869473-631e3c84-7953-4a88-bcff-f94020ac41a4.png)
+
+
+![download](https://user-images.githubusercontent.com/118631163/202869440-26c3e476-201b-4317-9207-d85243166676.png)
+
